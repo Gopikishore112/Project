@@ -1,0 +1,4 @@
+[INFO ] 2023-11-04 22:04:32.242 [main] RestAssuredAPITesting - Create User executed.
+[INFO ] 2023-11-04 22:04:33.511 [main] RestAssuredAPITesting - Get User Data executed.
+[INFO ] 2023-11-04 22:04:36.303 [main] RestAssuredAPITesting - Update User executed.
+[INFO ] 2023-11-04 22:04:37.658 [main] RestAssuredAPITesting - Delete User executed.
